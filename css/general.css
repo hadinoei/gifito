@@ -1,0 +1,8 @@
+body {
+    font-family: 'Manrope';
+    padding-bottom: 1000px;
+    flex-shrink: 0;
+}
+::selection {
+    background-color: rgb(114, 49, 161, 0.4);
+}
