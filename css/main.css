@@ -47,7 +47,6 @@
     top: 120px;
     left: 80px;
     right: 80px;
-    height: 700px;
 }
 .pre-dashbord1 {
     position: absolute;
@@ -62,7 +61,6 @@
     color: white;
     font-weight: light;
     font-size: 37px;
-    font-family: 'Manrope';
 }
 .Gifito {
     font-size:80px;
@@ -82,7 +80,6 @@
     color: rgb(225, 225, 225);
     font-weight: light;
     font-size: 15px;
-    font-family: 'Manrope';
 }
 .button-dashbord-box {
     margin-top: 40px;
@@ -148,6 +145,34 @@
     opacity: 0.5;
     box-shadow: 0px 5px 15px rgb(255, 255, 255, 0.15);
 }
+.dev-compony {
+    margin-top: 150px;
+    align-items: center;
+    justify-content: space-between;
+    width: 450px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
+.dev-box {
+    display: flex;
+    flex-direction: column;
+}
+.dev-1 {
+    font-size: 18px;
+    color: #b8a2ff;
+    padding: 0px;
+    margin: 0px;
+}
+.dev-2 {
+    font-size: 14px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.compony-img {
+    height: 30px;
+}
 .img {
     position: absolute;
     top: -10px;
@@ -159,40 +184,11 @@
 .secend-background {
     position: absolute;
     background-color:rgb(255, 255, 255);
-    height: 4000px;
+    height: 10000px;
     top: 870px;
     left: 0;
     right: 0;
     z-index: -98;
-}
-.developer-box {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: start;
-    top: 630px;
-    left: 0px;
-    right: 0px;
-    height: 100px;
-    width: 200px;
-}
-.Develop-title {
-    color: rgb(156, 134, 255);
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    padding: 0px;
-    margin: 0px;
-}
-.name-title {
-    color: #ffffff;
-    width: 840px;
-    font-size: 15px;
-    font-style: normal;
-    font-weight: normal;
-    padding: 0px;
-    margin: 0px;
 }
 .title-box {
     position: absolute;
